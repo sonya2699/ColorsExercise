@@ -1,0 +1,46 @@
+h1 {
+    color: cyan;
+    background-color: red;
+}
+h2 {
+    color: #99bb99;
+    background-color: orange;
+}
+h3 {
+    color: #5c3;
+    background-color: yellow;
+}
+h4 {
+    color: #ee99ff88;
+    background-color: green;
+}
+h5 {
+    color: #e9f5;
+    background-color: blue;
+}
+h6 {
+    color: rgb(245, 0, 1);
+    background-color: indigo;
+}
+p {
+ color: rgba(0, 1, 240, 0.7);
+ background-color: violet;
+}
+style
+
+h1{
+  color: hotpink;
+  border: green;
+  font-size: 5px; 
+}
+
+div{
+    background-color: peachpuff;
+    border: green;
+    font-size: 5px;
+}
+
+
+
+
+
